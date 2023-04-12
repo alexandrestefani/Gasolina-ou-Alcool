@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gasolina ou Alcool</string>
+    <string name="title">Gasolina ou\nAlcool?</string>
+    <string name="alcohol_hint_price">Preço do Alcool</string>
+    <string name="gas_hint_price">Preço da Gasolina</string>
+    <string name="button">Calcular</string>
+    <string name="alcohol">Alcool</string>
+    <string name="gas">Gasolina</string>
+    <string name="it_needs_more_dates">Faltam dados</string>
+</resources>
